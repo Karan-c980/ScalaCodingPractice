@@ -1,4 +1,12 @@
 # ScalaCodingPractice
+// Problem Statement: Given an array of 0s and 1s.
+// Fins the masximum length subarray containing equal number of 0s and 1s
+
+
+// Problem Statement
+// Find a pair of elemnts in the given list whose sum == target
+// Input 1: target = 9  --> pair (3,6) : So return true
+// Input 2: target = 21 --> no pair exists in given list : So return false
 
 def maxSubarray(arr : Array[Int]) : Int = {
        
