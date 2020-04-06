@@ -1,4 +1,4 @@
-// Find the length of largest subarray of 0s and 1s
+// Find the length of largest subarray containing equal number of 0s and 1s
 
 object LargestSubarray {
 
